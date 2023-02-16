@@ -19,9 +19,11 @@ SO THAT I can quickly create a professional README for a new project
 Utilizing the application is simple!
 
 First, clone the repo:
+    
     git clone git@github.com:jmabie94/2-15-23-README-generator.git
 
 Next, open an integrated terminal in your cloned folder and do the following:
+    
     run npm install inquirer
     run node index.js
 
@@ -29,5 +31,5 @@ Then, answer all of the prompts in your terminal to receive a generated README.m
 
 ## Media
 
-![A video walkthrough of the application's functionality can be found here.](./images/Untitled_%20Feb%2016%2C%202023%201_42%20AM.webm)
+![A video walkthrough of the application's functionality can be downloaded here.](./images/Untitled_%20Feb%2016%2C%202023%201_42%20AM.webm)
 
