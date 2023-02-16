@@ -33,7 +33,7 @@ ${badge}
 1. [About](#about)
     1. [User Story](#user%20story)
     2. [Acceptance Criteria](#acceptance%20criteria)
-    3. [Visuals](#media)
+    3. [Media](#media)
     4. [Build](#build)
 2. [Installation](#installation)
 3. [License](#license)
@@ -53,6 +53,8 @@ ${badge}
 ---
 ## Media:
 ![]()
+---
+## Build:
 ---
 ## Installation:
 
