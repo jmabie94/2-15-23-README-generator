@@ -1,2 +1,3 @@
-# 2-15-23-README-generator
-Using node.js to generate a customized professional README.md file for the user based on inquirer prompt answers.
+# 09 Node.js Challenge - John Mabie
+
+Basic README in order to turn in before it's too late!
